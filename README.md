@@ -1,6 +1,6 @@
 ## Hi 👋 Iam Hashim
 Student  @ veltech university
-- 🔭 Here's my [portfolio](https://hashimms.github.io/Hashim-portfolio/)
+- 🔭 Here's my [portfolio]((https://hash-portfolio.web.app))
 - Vibe coder                                                
 - 🌱 I’m currently pursuing my Btech in artificial intelligence and data science 
 -  Passionate in solving real world problem using AI and emerging Tech.
