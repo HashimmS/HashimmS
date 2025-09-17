@@ -1,11 +1,11 @@
 ## Hi 👋 Iam Hashim
 Student  @ veltech university
-- 🔭 Here's my [portfolio](https://hash-portfolio.web.app)
+- 🔭 Here's my [portfolio](https://abdulhashimportfolio.vercel.app)
 - Vibe coder                                                
 - 🌱 I’m currently pursuing my Btech in artificial intelligence and data science 
 -  Passionate in solving real world problem using AI and emerging Tech.
 -  Projects: Inventory Forecasting, Crop Yield Prediction, IoT + AI
--  Skilled in Python, SQL, Power BI, scikit-learn, and PyTorch
+-  Skilled in Python, SQL, Power BI, scikit-learn, PyTorch, Computer vision and NLP.
 - Social Presence
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([http://linkedin.com/in/hashim-10lm]) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]((https://www.instagram.com/_.hashiiimm/profilecard/?igsh=MWltY2Z2bXJ2Y3cxbQ==))
