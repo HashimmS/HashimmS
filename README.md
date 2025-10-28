@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=hiii,+I'm+Hashim;Aspiring AI and DS student ;G.C.E.&width=700&height=50&color=ffdc40&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
+#Hii,Iam Hashim
 Student  @ veltech university
 - 🔭 Here's my [portfolio](https://abdulhashimportfolio.vercel.app)
 - Vibe coder                                                
