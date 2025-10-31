@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hashim</h1>
 <h3 align="center">AI & Data Science enthusiast | Learning by building.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HashimmS" alt="HashimmS" /></a> </p>
-
 - 🌱 I’m currently learning **AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://abdulhashimportfolio.vercel.app/](https://abdulhashimportfolio.vercel.app/)
